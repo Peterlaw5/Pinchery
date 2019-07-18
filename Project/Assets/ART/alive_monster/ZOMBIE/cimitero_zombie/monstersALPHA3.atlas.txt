@@ -1,0 +1,55 @@
+
+monstersALPHA3.png
+size: 1142,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 2, 16
+  size: 366, 366
+  orig: 366, 366
+  offset: 0, 0
+  index: -1
+ZOMBIEBRAIN
+  rotate: false
+  xy: 794, 239
+  size: 301, 143
+  orig: 301, 143
+  offset: 0, 0
+  index: -1
+ZOMBIEEYE
+  rotate: true
+  xy: 794, 10
+  size: 227, 172
+  orig: 227, 172
+  offset: 0, 0
+  index: -1
+ZOMBIELEFTWING
+  rotate: false
+  xy: 370, 79
+  size: 422, 303
+  orig: 422, 303
+  offset: 0, 0
+  index: -1
+ZOMBIELIGHT
+  rotate: false
+  xy: 483, 46
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+ZOMBIEPALBEBRA
+  rotate: true
+  xy: 968, 10
+  size: 227, 172
+  orig: 227, 172
+  offset: 0, 0
+  index: -1
+ZOMBIEPUPIL
+  rotate: false
+  xy: 370, 2
+  size: 111, 75
+  orig: 111, 75
+  offset: 0, 0
+  index: -1

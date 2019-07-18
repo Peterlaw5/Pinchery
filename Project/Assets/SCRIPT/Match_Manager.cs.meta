@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d34dc7a417057bd4f88ca8b3fcdabce4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timer_text: {instanceID: 0}
+  - player_1: {instanceID: 0}
+  - P1_score_text: {instanceID: 0}
+  - player_2: {instanceID: 0}
+  - P2_score_text: {instanceID: 0}
+  - cannon_prefab: {instanceID: 0}
+  - countdown_text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

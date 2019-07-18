@@ -1,0 +1,62 @@
+
+monstersALPHA3.png
+size: 625,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SKULLBODY
+  rotate: false
+  xy: 2, 307
+  size: 366, 419
+  orig: 366, 419
+  offset: 0, 0
+  index: -1
+SKULLIRIS
+  rotate: false
+  xy: 370, 537
+  size: 220, 189
+  orig: 220, 189
+  offset: 0, 0
+  index: -1
+SKULLIRIS copy
+  rotate: false
+  xy: 370, 346
+  size: 220, 189
+  orig: 220, 189
+  offset: 0, 0
+  index: -1
+SKULLIRIS copy 2
+  rotate: true
+  xy: 243, 85
+  size: 220, 189
+  orig: 220, 189
+  offset: 0, 0
+  index: -1
+SKULLLEFTWING
+  rotate: false
+  xy: 2, 2
+  size: 239, 303
+  orig: 239, 303
+  offset: 0, 0
+  index: -1
+SKULLLIGHT
+  rotate: false
+  xy: 243, 44
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+SKULLPALPEBRAII
+  rotate: true
+  xy: 434, 124
+  size: 220, 189
+  orig: 220, 189
+  offset: 0, 0
+  index: -1
+SKULLPUPIL
+  rotate: false
+  xy: 434, 8
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1

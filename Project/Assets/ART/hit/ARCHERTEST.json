@@ -1,0 +1,68 @@
+{
+"skeleton": {
+	"hash": "aRTHI/F6GK2XG6H04IeaH8Al5o4",
+	"spine": "3.6.53",
+	"width": 0,
+	"height": 0,
+	"images": "C:\\Users\\dbga_11\\Desktop\\hit\\hit"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 1", "bone": "root", "attachment": "Layer 20" },
+	{ "name": "Layer 3", "bone": "root" },
+	{ "name": "Layer 4", "bone": "root" },
+	{ "name": "Layer 5", "bone": "root" },
+	{ "name": "Layer 19", "bone": "root" },
+	{ "name": "Layer 20", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Layer 1": {
+			"Layer 1": { "x": -17.5, "y": -20, "width": 223, "height": 226 },
+			"Layer 3": { "x": -17.5, "y": -20, "width": 274, "height": 224 },
+			"Layer 4": { "x": -17.5, "y": -20, "width": 279, "height": 207 },
+			"Layer 5": { "x": -17.5, "y": -20, "width": 35, "height": 26 },
+			"Layer 19": { "x": -17.5, "y": -20, "width": 206, "height": 199 },
+			"Layer 20": { "x": -17.5, "y": -20, "width": 224, "height": 218 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"Layer 1": {
+				"attachment": [
+					{ "time": 0, "name": "Layer 1" },
+					{ "time": 0.1, "name": "Layer 3" },
+					{ "time": 0.2, "name": "Layer 4" },
+					{ "time": 0.3, "name": "Layer 5" },
+					{ "time": 0.4, "name": "Layer 19" },
+					{ "time": 0.5, "name": "Layer 20" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

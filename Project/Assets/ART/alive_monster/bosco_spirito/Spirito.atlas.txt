@@ -1,0 +1,62 @@
+
+Spirito.png
+size: 561,738
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ENTBEARD
+  rotate: false
+  xy: 2, 266
+  size: 170, 102
+  orig: 170, 102
+  offset: 0, 0
+  index: -1
+ENTBODY
+  rotate: false
+  xy: 2, 370
+  size: 366, 366
+  orig: 366, 366
+  offset: 0, 0
+  index: -1
+ENTIRIS
+  rotate: true
+  xy: 370, 224
+  size: 220, 189
+  orig: 220, 189
+  offset: 0, 0
+  index: -1
+ENTLEFTWING
+  rotate: false
+  xy: 370, 446
+  size: 181, 290
+  orig: 181, 290
+  offset: 0, 0
+  index: -1
+ENTLIGHT
+  rotate: false
+  xy: 2, 225
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+ENTPALPEBRA
+  rotate: true
+  xy: 221, 2
+  size: 220, 189
+  orig: 220, 189
+  offset: 0, 0
+  index: -1
+ENTPUPIL
+  rotate: false
+  xy: 174, 254
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+ENTSHADOWANDLIGHT
+  rotate: true
+  xy: 2, 2
+  size: 220, 217
+  orig: 220, 217
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+monstersALPHA3.png
+size: 1716,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FIREBODY
+  rotate: false
+  xy: 2, 7
+  size: 406, 407
+  orig: 406, 407
+  offset: 0, 0
+  index: -1
+FIREEVYPUPIL
+  rotate: false
+  xy: 1281, 59
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+FIREEYELIGHT
+  rotate: false
+  xy: 410, 14
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+FIREIRS
+  rotate: false
+  xy: 1397, 3
+  size: 220, 189
+  orig: 220, 189
+  offset: 0, 0
+  index: -1
+FIRELAVA
+  rotate: false
+  xy: 410, 55
+  size: 338, 359
+  orig: 338, 359
+  offset: 0, 0
+  index: -1
+FIRELEFTWING
+  rotate: false
+  xy: 750, 103
+  size: 200, 311
+  orig: 200, 311
+  offset: 0, 0
+  index: -1
+FIREPALPEBRA
+  rotate: true
+  xy: 1525, 194
+  size: 220, 189
+  orig: 220, 189
+  offset: 0, 0
+  index: -1
+FIRERIGHTWING
+  rotate: false
+  xy: 952, 112
+  size: 200, 302
+  orig: 200, 302
+  offset: 0, 0
+  index: -1
+FIRESHADOWS
+  rotate: false
+  xy: 1303, 194
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+lava1
+  rotate: false
+  xy: 1030, 2
+  size: 249, 108
+  orig: 249, 108
+  offset: 0, 0
+  index: -1
+lava2
+  rotate: true
+  xy: 750, 21
+  size: 80, 278
+  orig: 80, 278
+  offset: 0, 0
+  index: -1
+lava3
+  rotate: false
+  xy: 1154, 175
+  size: 147, 239
+  orig: 147, 239
+  offset: 0, 0
+  index: -1

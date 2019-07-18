@@ -1,0 +1,90 @@
+
+orco.png
+size: 1233,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ORCBODY
+  rotate: false
+  xy: 2, 16
+  size: 366, 366
+  orig: 366, 366
+  offset: 0, 0
+  index: -1
+ORCEYE
+  rotate: false
+  xy: 370, 63
+  size: 232, 150
+  orig: 232, 150
+  offset: 0, 0
+  index: -1
+ORCEYEBROW
+  rotate: false
+  xy: 838, 18
+  size: 268, 111
+  orig: 268, 111
+  offset: 0, 0
+  index: -1
+ORCLEFTEAR
+  rotate: false
+  xy: 1108, 10
+  size: 123, 167
+  orig: 123, 167
+  offset: 0, 0
+  index: -1
+ORCLEFTTOOTH
+  rotate: true
+  xy: 717, 18
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+ORCLEFTWING
+  rotate: true
+  xy: 913, 179
+  size: 203, 284
+  orig: 203, 284
+  offset: 0, 0
+  index: -1
+ORCLIGHT
+  rotate: true
+  xy: 1199, 353
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+ORCPALPEBRA
+  rotate: false
+  xy: 604, 79
+  size: 232, 134
+  orig: 232, 134
+  offset: 0, 0
+  index: -1
+ORCPUPIL
+  rotate: false
+  xy: 604, 2
+  size: 111, 75
+  orig: 111, 75
+  offset: 0, 0
+  index: -1
+ORCRIGHTEAR
+  rotate: false
+  xy: 370, 215
+  size: 541, 167
+  orig: 541, 167
+  offset: 0, 0
+  index: -1
+ORCRIGHTTOOTH
+  rotate: true
+  xy: 370, 2
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+RING
+  rotate: false
+  xy: 838, 131
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1

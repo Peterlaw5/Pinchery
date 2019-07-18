@@ -1,0 +1,76 @@
+
+Personaggio2.0.png
+size: 4814,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOW
+  rotate: false
+  xy: 1647, 109
+  size: 1486, 521
+  orig: 1486, 521
+  offset: 0, 0
+  index: -1
+FARETRA
+  rotate: true
+  xy: 3575, 397
+  size: 233, 990
+  orig: 233, 990
+  offset: 0, 0
+  index: -1
+HAIR
+  rotate: false
+  xy: 3135, 157
+  size: 438, 473
+  orig: 438, 473
+  offset: 0, 0
+  index: -1
+LEFTARM
+  rotate: true
+  xy: 846, 45
+  size: 585, 799
+  orig: 585, 799
+  offset: 0, 0
+  index: -1
+RIGHTARM
+  rotate: true
+  xy: 3920, 42
+  size: 353, 892
+  orig: 353, 892
+  offset: 0, 0
+  index: -1
+RIGHTHAND
+  rotate: true
+  xy: 4567, 449
+  size: 181, 230
+  orig: 181, 230
+  offset: 0, 0
+  index: -1
+RIGHTSHOULDERS
+  rotate: true
+  xy: 3575, 24
+  size: 371, 343
+  orig: 371, 343
+  offset: 0, 0
+  index: -1
+ROPE
+  rotate: false
+  xy: 1621, 23
+  size: 768, 20
+  orig: 768, 20
+  offset: 0, 0
+  index: -1
+ROPE2
+  rotate: false
+  xy: 846, 23
+  size: 773, 20
+  orig: 773, 20
+  offset: 0, 0
+  index: -1
+TORSO
+  rotate: true
+  xy: 2, 2
+  size: 628, 842
+  orig: 628, 842
+  offset: 0, 0
+  index: -1

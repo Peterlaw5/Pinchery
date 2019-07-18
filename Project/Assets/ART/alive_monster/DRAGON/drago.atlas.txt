@@ -1,0 +1,62 @@
+
+drago.png
+size: 982,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DRAGEYEBROW
+  rotate: true
+  xy: 584, 66
+  size: 311, 154
+  orig: 311, 154
+  offset: 0, 0
+  index: -1
+DRAGIRIS
+  rotate: false
+  xy: 740, 227
+  size: 232, 150
+  orig: 232, 150
+  offset: 0, 0
+  index: -1
+DRAGLEFTWING
+  rotate: false
+  xy: 371, 79
+  size: 211, 298
+  orig: 211, 298
+  offset: 0, 0
+  index: -1
+DRAGLIGHT
+  rotate: false
+  xy: 484, 46
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+DRAGONBODY
+  rotate: false
+  xy: 2, 10
+  size: 367, 367
+  orig: 367, 367
+  offset: 0, 0
+  index: -1
+DRAGPUPIL
+  rotate: false
+  xy: 371, 2
+  size: 111, 75
+  orig: 111, 75
+  offset: 0, 0
+  index: -1
+LEFTHORN
+  rotate: false
+  xy: 740, 4
+  size: 119, 221
+  orig: 119, 221
+  offset: 0, 0
+  index: -1
+RIGHTHORN
+  rotate: false
+  xy: 861, 4
+  size: 119, 221
+  orig: 119, 221
+  offset: 0, 0
+  index: -1

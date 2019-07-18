@@ -1,0 +1,69 @@
+
+monstersALPHA3.png
+size: 1265,1486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODYBOTTOM
+  rotate: false
+  xy: 2, 2
+  size: 656, 315
+  orig: 656, 315
+  offset: 0, 0
+  index: -1
+CHESTBODY
+  rotate: false
+  xy: 2, 912
+  size: 783, 572
+  orig: 783, 572
+  offset: 0, 0
+  index: -1
+CHESTIRIS
+  rotate: true
+  xy: 2, 507
+  size: 403, 345
+  orig: 403, 345
+  offset: 0, 0
+  index: -1
+CHESTLEFTWING
+  rotate: false
+  xy: 787, 990
+  size: 444, 494
+  orig: 444, 494
+  offset: 0, 0
+  index: -1
+CHESTLIGHT
+  rotate: false
+  xy: 2, 433
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+CHESTPALPEBRA
+  rotate: false
+  xy: 349, 565
+  size: 403, 345
+  orig: 403, 345
+  offset: 0, 0
+  index: -1
+CHESTPUPIL
+  rotate: true
+  xy: 349, 354
+  size: 209, 208
+  orig: 209, 208
+  offset: 0, 0
+  index: -1
+COINS
+  rotate: false
+  xy: 660, 63
+  size: 603, 254
+  orig: 603, 254
+  offset: 0, 0
+  index: -1
+INSIDE
+  rotate: true
+  xy: 787, 319
+  size: 669, 424
+  orig: 669, 424
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+BIRD.png
+size: 1175,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BEAK
+  rotate: true
+  xy: 893, 17
+  size: 129, 98
+  orig: 129, 98
+  offset: 0, 0
+  index: -1
+BIRDCREST
+  rotate: true
+  xy: 585, 10
+  size: 136, 190
+  orig: 136, 190
+  offset: 0, 0
+  index: -1
+BIRDEYESHADOW
+  rotate: true
+  xy: 585, 148
+  size: 220, 206
+  orig: 220, 206
+  offset: 0, 0
+  index: -1
+BIRDIRIS
+  rotate: true
+  xy: 793, 148
+  size: 220, 189
+  orig: 220, 189
+  offset: 0, 0
+  index: -1
+BIRDLEFTWING
+  rotate: false
+  xy: 370, 48
+  size: 213, 320
+  orig: 213, 320
+  offset: 0, 0
+  index: -1
+BIRDLIGHT
+  rotate: false
+  xy: 370, 7
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+BIRDPALBEBRA
+  rotate: true
+  xy: 984, 148
+  size: 220, 189
+  orig: 220, 189
+  offset: 0, 0
+  index: -1
+BIRDPUPIL
+  rotate: false
+  xy: 777, 32
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+charcoal copy
+  rotate: false
+  xy: 2, 2
+  size: 366, 366
+  orig: 366, 366
+  offset: 0, 0
+  index: -1

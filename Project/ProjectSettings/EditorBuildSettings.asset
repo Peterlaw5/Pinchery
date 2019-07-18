@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/SCENES/SCHERMATE_MENU.unity
+    guid: 0065eb68c67b46a4f971abe0ac205351
+  - enabled: 1
+    path: Assets/SCENES/GAME.unity
+    guid: 884af981f0e708049b99a1450bc2af4c
+  m_configObjects: {}
